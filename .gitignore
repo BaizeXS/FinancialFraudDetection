@@ -50,3 +50,8 @@ rsconnect/
 
 # Mac File System
 .DS_Store
+
+# Remove pictures and logs
+pics/
+logs/
+
